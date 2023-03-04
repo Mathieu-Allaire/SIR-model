@@ -7,6 +7,10 @@ In this project, a colleague and I modelled the spread of an infectious disease 
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/113075689/222924039-a54bb348-1635-4cf6-8c96-a7397f65a40e.png">
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/113075689/222923969-d5d71ac0-dc97-4f83-a50a-ac0424fdbe9c.png">
 </p>
 
