@@ -14,3 +14,12 @@ In this project, a colleague and I modelled the spread of an infectious disease 
   <img src="https://user-images.githubusercontent.com/113075689/222923969-d5d71ac0-dc97-4f83-a50a-ac0424fdbe9c.png">
 </p>
 
+
+## Recommended IDE Setup
+Any IDE that supports Python can run the code as long as the modules math and matplotlib are correctly installed beforehand.
+
+For an easy visualization of the code, I recommend using [Google Collab](https://colab.google/), a hosted Jupyter notebook service that requires no setup to use while providing access free of charge to computing resources including GPUs.
+
+
+## Link to the code
+The full report containing the base models and each modificiation tried on the model can be found [here](https://github.com/Mathieu-Allaire/SIR-model/blob/main/SIR-model.ipynb).
